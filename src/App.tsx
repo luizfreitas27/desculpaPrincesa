@@ -42,9 +42,7 @@ function App() {
             height: "400px",
           }}
         >
-          {/* {
-            message ? <Modal/> : null 
-          } */}
+         
           {!modal ? (
             <>
           <button style={{
